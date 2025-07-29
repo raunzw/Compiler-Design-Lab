@@ -1,6 +1,6 @@
 # Compiler Design Lab - Cycle 1
 
-This repository contains the implementation of various compiler design concepts as part of the Compiler Design Laboratory course.
+This repository contains the implementation of various compiler design concepts as part of the Compiler Design Laboratory course (CSDL442).
 
 ## Experiments
 
@@ -19,11 +19,3 @@ This repository contains the implementation of various compiler design concepts 
    ```
    ./program_name
    ```
-
-## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the [License Name] - see the LICENSE file for details.
