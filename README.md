@@ -62,13 +62,7 @@ After completing these lab experiments, students will be able to:
 4. Build simple parsers for context-free grammars
 5. Implement code optimization techniques
 
-## Author
 
-[Your Name]
-
-## License
-
-This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 
