@@ -22,7 +22,13 @@ This repository is organized into cycles, each containing multiple experiments:
 3. [NFA to DFA Conversion](Cycle%201/NFA_to_DFA/) - Program to convert NFA to DFA using subset construction
 4. [Epsilon Closure](Cycle%201/Epsilon_Closure/) - Program to find epsilon closure of all states in an NFA
 
-### Cycle 2: Lexical Analysis and Parsing (Coming Soon)
+### [Cycle 2: Lexical Analysis and Parsing](Cycle%202/)
+
+1. [LEX String Recognition](Cycle%202/Lex_String_Recognition/) - A LEX program to recognize strings that don't contain specific substrings
+2. [YACC Variable Recognition](Cycle%202/YACC_Variable_Recognition/) - A YACC program to validate variable identifiers
+3. [LEX & YACC Calculator](Cycle%202/LEX_YACC_Calculator/) - Implementation of a calculator using LEX and YACC
+4. [BNF to Abstract Syntax Tree](Cycle%202/BNF_to_AST/) - Converting BNF rules to YACC and generating ASTs
+5. [YACC FOR Statement Validation](Cycle%202/YACC_FOR_Statement/) - A YACC program to check C FOR statement syntax
 
 ### Cycle 3: Syntax Analysis and Code Generation (Coming Soon)
 
