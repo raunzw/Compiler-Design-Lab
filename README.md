@@ -1,6 +1,6 @@
-# Compiler Design Laboratory (CSDL442)
+# Compiler Design Laboratory (CSL411)
 
-This repository contains the implementation of various compiler design concepts as part of the Compiler Design Laboratory course (CSDL442) at Kerala Technological University.
+This repository contains the implementation of various compiler design concepts as part of the Compiler Design Laboratory course (CSL411) at Kerala Technological University.
 
 ## Course Overview
 
@@ -68,13 +68,7 @@ After completing these lab experiments, students will be able to:
 4. Build simple parsers for context-free grammars
 5. Implement code optimization techniques
 
-## Author
 
-[Your Name]
-
-## License
-
-This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 
